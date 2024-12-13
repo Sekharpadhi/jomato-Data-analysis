@@ -21,3 +21,6 @@ Implementing transactions to update and rollback changes to the cuisine type col
 Generating a ranking of the top 5 areas with the highest restaurant ratings and displaying numbers using loops.
 * Views and Triggers-
 Creating views to store top-rated restaurants and triggers to send email notifications upon new data insertion.
+
+# Conclusion
+This comprehensive project leverages SQL capabilities to manage and analyze the Jomato database effectively. The implemented functions, procedures, and triggers enhance data functionality, providing valuable insights and operational efficiency for the platform.
