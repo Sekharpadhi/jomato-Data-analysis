@@ -5,19 +5,19 @@ This project focuses on managing and analyzing data from the Jomato database, sp
 # Key Components
 * Database Setup
 Creation of the database and table setup to store restaurant review data.
-User-Defined Functions
+*User-Defined Functions
 Creation of functions to modify restaurant types and identify restaurants with the highest number of ratings.
-Column Manipulation
+*Column Manipulation
 Adding and updating a column to classify restaurants based on their rating status (Excellent, Good, Average, Bad).
-Data Analysis
+*Data Analysis
 Calculating ceiling, floor, and absolute values of ratings along with extracting date components like year, month, and day.
-Aggregate Functions
+*Aggregate Functions
 Using the ROLLUP feature to calculate the average cost per restaurant type.
-Stored Procedures
+*Stored Procedures
 Creating procedures to list restaurants that have active table bookings.
-Transactions
+*Transactions
 Implementing transactions to update and rollback changes to the cuisine type column, ensuring data integrity.
-Ranking and Loops
+*Ranking and Loops
 Generating a ranking of the top 5 areas with the highest restaurant ratings and displaying numbers using loops.
-Views and Triggers
+*Views and Triggers
 Creating views to store top-rated restaurants and triggers to send email notifications upon new data insertion.
